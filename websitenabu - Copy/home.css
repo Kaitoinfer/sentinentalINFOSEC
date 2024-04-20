@@ -1,0 +1,279 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    
+    
+    
+
+
+}
+
+
+.title{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    color: aliceblue;
+    display: inline;
+    margin-right: 450px;
+   
+    
+    
+}
+.title-span{
+    color: orangered;
+    display: inline;
+
+}
+.nav{
+    color: aliceblue;
+    display: inline;
+    
+}
+.dropdown{
+    display: none;
+    position: absolute;
+     
+}
+
+.nav:hover .dropdown{
+    display: block;
+    margin-left: 550px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+
+}
+
+
+.title-div{
+    background: rgb(0, 0, 0);
+    padding: 20px;
+    
+}
+.home{
+    color: white;
+    text-decoration: none;
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home:hover{
+    color:orangered;
+    border-bottom: 2px solid orangered;
+}
+.about{
+    color: white;
+    text-decoration: none;
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about:hover{
+    color:orangered;
+
+
+}
+.drop{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 300px;
+    
+    
+    
+}
+.benefits{
+    color: orangered;
+    margin-left: 35px;
+    position: absolute;
+    padding-top: 20px;
+    
+}
+.text h4{
+    position: relative;
+}
+.services-list{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 12px;
+}
+.hr1{
+    width: 90%;
+   
+}
+
+
+
+.about{
+    color: white;
+    text-decoration: none;
+    
+}
+.about:hover{
+    color:orangered;
+    border-bottom: 2px solid orangered;
+}
+.nav2:hover .dropdown1{
+    display: block;
+    margin-left: 679px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+    
+
+}
+.dropdown1{
+    display: none;
+    position: absolute;
+     
+}
+.text1 h4{
+    position: relative;
+}
+
+.drop1{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.966);
+    width: 600px;
+    height: 400px;
+}
+.benefits1{
+    color: orangered;
+    margin-left: 42%;
+    padding-top: 20px;
+    justify-content: center;
+    
+}
+.about-us{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 30px;
+    
+}
+.hr2{
+    width: 90%;
+   
+}
+.nav2{
+    color: aliceblue;
+    display: inline;
+}
+
+
+
+
+
+
+
+.tutorials{
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.tutorials:hover{
+    color: rgba(255, 255, 255, 0.945);
+    
+    text-decoration: none;
+   
+    border-bottom: 2px solid orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.about:hover{
+    color:orangered;
+}
+.nav3:hover .dropdown2{
+    display: block;
+    margin-left: 404px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+    
+    
+
+}
+.dropdown2{
+    display: none;
+    position: absolute;
+     
+}
+.text2 h4{
+    position: relative;
+
+}
+
+.drop2{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.966);
+    width: 855px;
+    height: 540px;
+    
+    
+}
+.benefits2{
+    color: orangered;
+    margin-left: 45%;
+    padding-top: 20px;
+    justify-content: center;
+    
+}
+.tutorialss{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 12px;
+    
+}
+.hr3{
+    width: 90%;
+    
+   
+}
+.nav3{
+    color: aliceblue;
+    display: inline;
+}
+.search{
+    border: none;
+    padding: 20px;
+    width: 400px;
+    height: 1px;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 400px;
+    top: 11px;
+
+}
+.search-div{
+    
+
+}
+
+.name{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

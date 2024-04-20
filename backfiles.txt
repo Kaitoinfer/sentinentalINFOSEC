@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>TOP Programming Language</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css1.css">
+    </head>
+    
+    
+    <body>
+        <div class="title-div">
+            <p class="title">Sentinental<span class="title-span">INFOSEC</span></p>
+        
+                <div class="nav">
+                    
+                    <a href="#" class="home">SERVICE</a>
+                    
+                        <div class="dropdown">
+                                <div class="text">
+                                    
+                                    <a href="#" class="drop">
+                                        <h4 class="benefits">PURPOSE</h4>
+                                        <hr class="hr1">
+                                        <ul>
+                                            <li class="services-list">LEARN SIMPLE PENTESTING</li>
+                                            <li class="services-list">TO BUILD SMALL CAREER</li>
+                                            <li class="services-list">LEARN BASIC SECURITY</li>
+                                            <li class="services-list">LEARN TECHNOLOGY</li>
+                                            <li class="services-list">BE THE WHITE HAT HACKER</li>
+                                            <li class="services-list">ZERO TO HERO</li>
+                                        </ul>
+                               
+                                        
+                               
+                                    </a>
+                                </div>
+                        </div>
+                </div>  
+                    <div class="nav2">
+                        <a href="#" class="about">ABOUT</a>
+                    
+                        <div class="dropdown1">
+                                <div class="text1">
+                                    
+                                    <a href="#" class="drop1">
+                                        <h4 class="benefits1">ABOUT US</h4>
+                                        <hr class="hr2">
+                                        <ul>
+                                            <li class="about-us">This website was created on March 4, 2024
+                                                It was developed by John Leonard C. Gualdahara The purpose of this website is to inform basic knowledge about Ethical Hacking and Penetration</li>
+                                            <br>
+                                            <li class="about-us">Warning This information is legal, it will only be illegal if you use it incorrectly, such as hacking the website or penetrating it without the permission of the website owner or company, if you do not use it correctly there is This is a punishment and this should be the same as always remember Comes Great Power Comes Great Responsibility.</li>
+    
+
+
+                                        </ul>
+                               
+                                        
+                               
+                                    </a>
+                                </div>
+                        </div>
+                    </div>    
+                    <div class="nav3">
+                        <a href="#" class="tutorials">TUTORIALS</a>
+                    
+                        <div class="dropdown2">
+                                <div class="text2">
+                                    
+                                    <a href="#" class="drop2">
+                                        <h4 class="benefits2">TUTORIALS</h4>
+                                        <hr class="hr3">
+                                        <ul>
+                                          
+
+
+                                        </ul>
+                               
+                                        
+                               
+                                    </a>
+                                </div>
+                        </div>
+                    </div> 
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    
+
+
+
+
+
+
+
+
+
+        </div>
+                
+                
+      
+        <div class="title-topic">
+            <ul>
+                <li class="top1"><a class="topa" href="#">TOP 100</a></li>
+                <li class="top2"><a class="topa2" href="#">Hacking Tools</a></li>
+            </ul>
+        </div>
+
+
+        
+
+        <div class="mySidenav" class="sidenav">
+            <a href="#" class="Network-Scanning-Tools">Network Scanning Tools</a>
+            <a href="#" class="Vulnerability-Scanning-Tools">Vulnerability Scanning Tools</a>
+            <a href="#" class="Password-Cracking-Tools">Password Cracking Tools</a>
+            <a href="#" class="Exploitation-Tools">Exploitation Tools</a>
+            <a href="#" class="Packet-Sniffing-and-Spoofing-Tools">Packet Sniffing and Spoofing Tools</a>
+            <a href="#" class="Wireles-Hacking-Tools">Wireless Hacking Tools</a>
+            <a href="#" class="Web-Application-Hacking-Tools">Web Application Hacking Tools</a>
+            <a href="#" class="Forensic-Tools">Forensic Tools</a>
+            <a href="#" class="Social-Engineering-Tools">Social Engineering Tools</a>
+            <a href="#" class="Miscellaneous-Tools">Miscellaneous Tools</a>
+          </div>
+      
+
+
+    </body>
+</html>
+
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    
+    
+
+
+}
+.title{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    color: aliceblue;
+    display: inline;
+    margin-right: 500px;
+   
+    
+    
+}
+.title-span{
+    color: orangered;
+    display: inline;
+
+}
+.nav{
+    color: aliceblue;
+    display: inline;
+    
+}
+.dropdown{
+    display: none;
+    position: absolute;
+     
+}
+
+.nav:hover .dropdown{
+    display: block;
+    margin-left: 550px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+
+}
+
+
+.title-div{
+    background: rgb(0, 0, 0);
+    padding: 20px;
+    
+}
+.home{
+    color: white;
+    text-decoration: none;
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home:hover{
+    color:orangered;
+}
+.about{
+    color: white;
+    text-decoration: none;
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about:hover{
+    color:orangered;
+
+
+}
+.drop{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 300px;
+    
+    
+    
+}
+.benefits{
+    color: orangered;
+    margin-left: 35px;
+    position: absolute;
+    padding-top: 20px;
+    
+}
+.text h4{
+    position: relative;
+}
+.services-list{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 12px;
+}
+.hr1{
+    width: 90%;
+   
+}
+
+
+
+.about{
+    color: white;
+    text-decoration: none;
+    
+}
+.about:hover{
+    color:orangered;
+}
+.nav2:hover .dropdown1{
+    display: block;
+    margin-left: 679px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+    
+
+}
+.dropdown1{
+    display: none;
+    position: absolute;
+     
+}
+.text1 h4{
+    position: relative;
+}
+
+.drop1{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.966);
+    width: 600px;
+    height: 400px;
+}
+.benefits1{
+    color: orangered;
+    margin-left: 42%;
+    padding-top: 20px;
+    justify-content: center;
+    
+}
+.about-us{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 30px;
+    
+}
+.hr2{
+    width: 90%;
+   
+}
+.nav2{
+    color: aliceblue;
+    display: inline;
+}
+
+
+
+
+
+
+
+.tutorials{
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.about:hover{
+    color:orangered;
+}
+.nav3:hover .dropdown2{
+    display: block;
+    margin-left: 404px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+    
+    
+
+}
+.dropdown2{
+    display: none;
+    position: absolute;
+     
+}
+.text2 h4{
+    position: relative;
+
+}
+
+.drop2{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.966);
+    width: 855px;
+    height: 540px;
+    
+}
+.benefits2{
+    color: orangered;
+    margin-left: 45%;
+    padding-top: 20px;
+    justify-content: center;
+    
+}
+.tutorialss{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 12px;
+    
+}
+.hr3{
+    width: 90%;
+    
+   
+}
+.nav3{
+    color: aliceblue;
+    display: inline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top1{
+    
+    margin-left: 40px;
+    font-family: sans-serif;
+    list-style: none;
+    margin-top: 60px;
+}
+.top2{
+    font-size: 35px;
+    margin-left: 80px;
+    font-family: sans-serif;
+    list-style: none;
+}
+
+.span-title-topic{
+    color: orangered;
+    margin: 0%;
+}
+.title-topic{
+
+}
+.topa{
+    text-decoration: none;
+    color: black;
+    font-size: 60px;
+    font-family: fantasy;
+    
+
+}
+.topa2{
+    text-decoration: none;
+    color: orangered;
+    font-size: 30px;
+    font-family: fantasy;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mySidenav a {
+    position: absolute;
+    left: 80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 300px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-top: 250px;
+    border-radius: 0 5px 5px 0;
+}
+  
+.mySidenav a:hover {
+    margin-left: 120px;
+}
+  
+.Network-Scanning-Tools {
+    top: 20px;
+    background-color: orangered;
+}
+  
+.Vulnerability-Scanning-Tools {
+    top: 80px;
+    background-color: orangered;
+}
+  
+.Password-Cracking-Tools {
+    top: 140px;
+    background-color: orangered;
+}
+  
+.Exploitation-Tools{
+    top: 200px;
+    background-color: orangered;
+}
+.Packet-Sniffing-and-Spoofing-Tools{
+    top: 260px;
+    background-color: orangered;
+}
+.Wireles-Hacking-Tools{
+    top: 320px;
+    background-color: orangered;
+    
+}
+
+.Web-Application-Hacking-Tools{
+    top: 380px;
+    background-color: orangered;
+    
+}
+.Forensic-Tools{
+    top: 440px;
+    background-color: orangered;
+
+}
+.Social-Engineering-Tools{
+    top: 500px;
+    background-color: orangered;
+    
+
+}
+.Miscellaneous-Tools{
+    top: 560px;
+    background-color: orangered;
+    
+
+}

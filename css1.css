@@ -1,0 +1,495 @@
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+    
+    
+    
+
+
+}
+
+
+.title{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    color: aliceblue;
+    display: inline;
+    margin-right: 500px;
+   
+    
+    
+}
+.title-span{
+    color: orangered;
+    display: inline;
+
+}
+.nav{
+    color: aliceblue;
+    display: inline;
+    
+}
+.dropdown{
+    display: none;
+    position: absolute;
+     
+}
+
+.nav:hover .dropdown{
+    display: block;
+    margin-left: 550px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+
+}
+
+
+.title-div{
+    background: rgb(0, 0, 0);
+    padding: 20px;
+    width: 1330px;
+    
+}
+.home{
+    color: white;
+    text-decoration: none;
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home:hover{
+    color:orangered;
+    border-bottom: 2px solid orangered;
+}
+.about{
+    color: white;
+    text-decoration: none;
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about:hover{
+    color:orangered;
+
+
+}
+.drop{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgb(0, 0, 0);
+    width: 500px;
+    height: 300px;
+    
+    
+    
+}
+.benefits{
+    color: orangered;
+    margin-left: 35px;
+    position: absolute;
+    padding-top: 20px;
+    
+}
+.text h4{
+    position: relative;
+}
+.services-list{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 12px;
+}
+.hr1{
+    width: 90%;
+   
+}
+
+
+
+.about{
+    color: white;
+    text-decoration: none;
+    
+}
+.about:hover{
+    color:orangered;
+    border-bottom: 2px solid orangered;
+}
+.nav2:hover .dropdown1{
+    display: block;
+    margin-left: 679px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+    
+
+}
+.dropdown1{
+    display: none;
+    position: absolute;
+     
+}
+.text1 h4{
+    position: relative;
+}
+
+.drop1{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.966);
+    width: 600px;
+    height: 400px;
+}
+.benefits1{
+    color: orangered;
+    margin-left: 42%;
+    padding-top: 20px;
+    justify-content: center;
+    
+}
+.about-us{
+    color: rgb(255, 255, 255);
+    word-spacing: 2px;
+    margin: 30px;
+    
+}
+.hr2{
+    width: 90%;
+   
+}
+.nav2{
+    color: aliceblue;
+    display: inline;
+}
+
+
+
+
+
+
+
+.tutorials{
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.tutorials:hover{
+    color: rgba(255, 255, 255, 0.945);
+    
+    text-decoration: none;
+   
+    border-bottom: 2px solid orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.about:hover{
+    color:orangered;
+}
+.nav3:hover .dropdown2{
+    display: block;
+    margin-left: 404px;
+    transition-delay: 2s;
+    box-shadow: 20px 10px 20px #99999988;
+    
+    
+
+}
+.dropdown2{
+    display: none;
+    position: absolute;
+    align-items: center;
+    
+     
+}
+.text2 h4{
+    position: relative;
+
+}
+
+.fullname{
+    width: 234px;
+    
+}
+.email{
+    width: 234px;
+}
+.form{
+    margin-left: 400px;
+    background-color: rgba(187, 77, 37, 0.781);
+    
+    width: 400px;
+
+    margin-top: 40px;
+    padding-top: 20px;
+    border-radius: 20px;
+    padding-bottom: 20px;
+
+
+
+}
+.links{
+    position: absolute;
+    margin-left: 70px;
+    list-style: none;
+    
+}
+
+.form input{
+    margin-left: 75px;
+
+}
+.form input{
+    margin-left: 75px;
+    border: none;
+    height: 20px;
+
+}
+.fullname{
+    margin-left: 76px;
+}
+.email{
+    margin-left: 76px;
+}
+.textarea{
+    margin-left: 76px;
+}
+textarea{
+    margin-left: 74px;
+}
+
+.drop2{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.966);
+    width: 855px;
+    height: 540px;
+    padding-top: 10px;
+    
+    
+}
+.benefits2{
+    color: orangered;
+    margin-left: 44%;
+    justify-content: center;
+    font-size: 20px;
+    
+    
+    
+}
+
+.contact-info{
+    margin-left: 40px;
+    margin-top: 0px;
+    vertical-align: middle;
+    
+}
+.tutorialss{
+    color: rgb(255, 255, 255);
+    
+    text-decoration: none;
+    list-style: none;
+    font-size: 17px;
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.hr3{
+    width: 90%;
+    
+   
+}
+.nav3{
+    color: aliceblue;
+    display: inline;
+}
+.search{
+    border: none;
+    padding: 20px;
+    width: 400px;
+    height: 1px;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 400px;
+    top: 11px;
+
+}
+.search-div{
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container-title{
+    width: 1330px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+.title-topic{
+    margin-left: 560px;
+    
+
+}
+.ethical{
+    margin-left: 300px;
+}
+.design{
+    color: orangered;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.side-bar a {
+    position: absolute;
+    left: 0px;
+    transition: 0.7s;
+    padding: 15px ;
+    
+    
+    
+    text-align: left;
+    width: 300px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-top: 250px;
+    border-radius: 0 10px 60px 0;
+    z-index: -1;
+    
+}
+  
+.side-bar a:hover {
+    margin-left: 100px;
+}
+  
+.Network-Scanning-Tools {
+    top: 20px;
+    background-color: orangered;
+}
+  
+.Vulnerability-Scanning-Tools {
+    top: 80px;
+
+    background-color: orangered;
+}
+  
+.Password-Cracking-Tools {
+    top: 140px;
+    background-color: orangered;
+}
+  
+.Exploitation-Tools{
+    top: 200px;
+    background-color: orangered;
+}
+.Packet-Sniffing-and-Spoofing-Tools{
+    top: 260px;
+    background-color: orangered;
+}
+
+
+
+.side-bar2 a {
+    position: absolute;
+    margin-left: 1030px;
+    transition: 0.7s;
+    padding: 15px 20px 15px 20px;
+    width: 300px;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: right;
+    margin-right: 10px;
+    color: white;
+    margin-top: 250px;
+    border-radius: 10px 0px 0px 60px;
+    z-index: -1;
+}
+.side-bar2 a:hover {
+    margin-left: 950px;
+}
+
+
+.Wireles-Hacking-Tools{
+    top: 20px;
+    background-color: orangered;
+    
+}
+
+.Web-Application-Hacking-Tools{
+    top: 80px;
+    background-color: orangered;
+    
+}
+.Forensic-Tools{
+    top: 140px;
+    background-color: orangered;
+
+}
+.Social-Engineering-Tools{
+    top: 200px;
+    background-color: orangered;
+    
+
+}
+.Miscellaneous-Tools{
+    top: 260px;
+    background-color: orangered;
+    
+
+}
+
+
+
+
+
+
+
+
+
